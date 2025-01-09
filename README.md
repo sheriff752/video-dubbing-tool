@@ -64,11 +64,11 @@ To change the language of the dubbing, modify the language parameter in the crea
 
     French: 'fr'
 
-    Example:
-
-To dub a video in Spanish, change this line in the script:
+    Example:  To dub a video in Spanish, change this line in the script:
 
 create_dubbed_video(matching_srt, video_file, output_video_path, language='es')
+
+
 
 
 gTTS supports a wide range of languages. You can find the full list of supported languages in the  Supported Languageshttps: https://gtts.readthedocs.io/en/latest/module.html#languages 
