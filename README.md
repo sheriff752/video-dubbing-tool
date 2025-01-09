@@ -64,9 +64,9 @@ To change the language of the dubbing, modify the language parameter in the crea
 
     French: 'fr'
 
-    Example:  To dub a video in Spanish, change this line in the script:
+    Example:  To dub a video in Spanish, change this line in the script: create_dubbed_video(matching_srt, video_file, output_video_path, language='es')
 
-create_dubbed_video(matching_srt, video_file, output_video_path, language='es')
+
 
 
 
